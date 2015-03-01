@@ -9,6 +9,11 @@
         android:orientation="vertical"
         android:padding="@dimen/list_padding" >
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/demo_1" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -41,7 +46,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/right" />
-                
+
                 <RadioButton
                     android:id="@+id/left_right"
                     android:layout_width="wrap_content"

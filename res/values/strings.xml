@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Yc_ui_slidingmenu</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">SlidingMenu示例总汇</string>
 
     <string name="left">Left</string>
     <string name="right">Right</string>
     <string name="left_and_right">Left and Right</string>
+    <string name="demo_1">通过改变不同的值来改变滑动菜单不同的效果，可以设置的值有：\n1. 设置滑动菜单显示的位置（左边、右边或者左右两边都有）；\n2. 设置触摸屏幕的模式（全屏触摸打开滑动菜单、边缘触摸打开滑动菜单或者触摸不能打开滑动菜单）；\n2. 设置滑动菜单滑动时缩放的效果以及关闭此效果（值越大效果越明显）；\n4. 设置滑动菜单滑动时的阴影效果以及关闭此效果（值越大效果越明显）；\n5. 设置滑动菜单滑动时渐入渐出的效果（值越大效果越明显）。</string>
 </resources>

@@ -11,7 +11,11 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity;
-
+/**
+ * 
+ * @author yechao
+ * @说明 通过改变不同的值来改变滑动菜单不同的效果
+ */
 public class SlidingMenuActivity_1 extends SlidingFragmentActivity {
 	
 	@Override

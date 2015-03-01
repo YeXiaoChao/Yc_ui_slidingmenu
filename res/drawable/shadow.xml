@@ -2,8 +2,9 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <gradient
-        android:endColor="#33000000"
         android:centerColor="#11000000"
+        android:endColor="#33000000"
         android:startColor="#00000000" />
 
 </shape>
+<!-- 用来实现阴影效果的图形，使用了渐变的绘图效果。 -->

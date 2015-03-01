@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * 划出的菜单栏 
+ * 划出的菜单栏 - 用来显示界面中的列表的。
  */
 public class SampleListFragment extends ListFragment {
 

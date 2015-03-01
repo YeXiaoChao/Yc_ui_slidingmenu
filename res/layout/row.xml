@@ -22,3 +22,4 @@
         android:textAppearance="@android:style/TextAppearance.Medium" />
 
 </LinearLayout>
+<!-- 用于存放列表中的图片和文本。 -->
